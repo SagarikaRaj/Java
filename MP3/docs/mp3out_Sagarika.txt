@@ -1,0 +1,47 @@
+Press RETURN to exit...
+Producer 1 : 1 Unit produced for E Consumers. Queue contains 1 product(s) 
+The Western Object is given the patch
+*****************************************************************
+E Consumer - Got Product
+Summary of Product just consumed in the E region:
+Product ID              :   980001
+Product Name            :   Identity Server
+Product Manufacturer ID :   19985678
+Product Code            :   SW
+Product Purchase Cost   :   1095.0
+Consumed Time           :   Sun Apr 14 02:22:23 CDT 2013
+******************************************************************
+Serializing Data..
+Serialization Complete.
+Producer 1 : 1 Unit produced for S Consumers. Queue contains 1 product(s) 
+*****************************************************************
+S Consumer - Got Product
+Summary of Product just consumed in the S region:
+Product ID              :   986712
+Product Name            :   512X IDE DVD-ROM
+Product Manufacturer ID :   19989719
+Product Code            :   HW
+Product Purchase Cost   :   69.94999694824219
+Consumed Time           :   Sun Apr 14 02:22:24 CDT 2013
+******************************************************************
+Serializing Data..
+Serialization Complete.
+Producer 1 : 1 Unit produced for S Consumers. Queue contains 1 product(s) 
+*****************************************************************
+S Consumer - Got Product
+Summary of Product just consumed in the S region:
+Product ID              :   971266
+Product Name            :   Network Cable
+Product Manufacturer ID :   19948494
+Product Code            :   CB
+Product Purchase Cost   :   25.950000762939453
+Consumed Time           :   Sun Apr 14 02:22:25 CDT 2013
+******************************************************************
+Serializing Data..
+Serialization Complete.
+Production and Distribution Interrupted. Halting.
+Total Elapsed Time                  :   2 Seconds
+No of Products Produced             :   3
+No of Products Consumed             :   3
+No of Products in Inventory/Unsold  :   0
+Deserializing and Displaying data before Termination!
